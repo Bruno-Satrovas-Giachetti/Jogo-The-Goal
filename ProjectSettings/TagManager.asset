@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hook
+  - Barrier
+  - Warp Left
+  - Warp Right
+  - trash
+  - regular_fish
+  - rare_fish
+  - stopper_right
+  - stopper_left
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Warp
+  - Water
+  - UI
+  - Sky
+  - Stopper
+  - Michael
+  - excludedFish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
